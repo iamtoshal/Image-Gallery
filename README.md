@@ -1,4 +1,5 @@
 # Image-Gallery
+Image gallery is created using HTML and CSS.
 
-You can visit the image gallery at the following link -
-[https://iamtoshal.github.io/Image-Gallery/](https://iamtoshal.github.io/Image-Gallery/)
+You can visit the image gallery at this link -
+[Image-gallery](https://iamtoshal.github.io/Image-Gallery/)
